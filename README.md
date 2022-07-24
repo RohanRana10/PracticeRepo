@@ -16,3 +16,9 @@ A digital clock with alarm features. User can add and delete new alarms. Alarm n
 - Delete Alarm
   - For each alarm, a "delete" button is given to delete the alarm
   - When the user deletes an alarm, it is cleared from the list and “does not alert the user”
+
+## Images
+
+<img src = "images/clock.png">
+<img src = "images/withAlarms.png">
+<img src = "images/alarmAlert.png">
